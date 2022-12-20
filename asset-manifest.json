@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnddice/static/css/main.e6c13ad2.css",
+    "main.js": "/dnddice/static/js/main.775e13a9.js",
+    "index.html": "/dnddice/index.html",
+    "main.e6c13ad2.css.map": "/dnddice/static/css/main.e6c13ad2.css.map",
+    "main.775e13a9.js.map": "/dnddice/static/js/main.775e13a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.775e13a9.js"
+  ]
+}
